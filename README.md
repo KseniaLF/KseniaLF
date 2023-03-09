@@ -2,10 +2,16 @@
 
 ## I'm a junior front-end developer (React)
 
-- 💻 I’m open to work
-- 🌱 And I am currently studying REACT
-- 😄 I'm motivated to become a better programmer
-- ⌨ I love my touch typing skills
+<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="25%"/> -->
+<div align="center">
+    <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
+</div>
+
+- 💻 <b>Open to work</b> 💚
+- 🌱 I am currently studying <b>REACT</b>
+- 😄 I'm motivated to become <b>a better programmer</b>
+- ⌨ Very love my touch typing skills 🖤
+- ⚡ In my free time I learn English
 - 📫 How to reach me: llf9391@gmail.com
 
 ##
@@ -32,6 +38,7 @@
 ### 🖌 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksenia-luv/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luv_ksuy)
 
 ### ⚙️ GitHub Analytics
 
