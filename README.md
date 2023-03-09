@@ -75,27 +75,6 @@
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="30%"/>
-</div>
-
-### ⚙️ GitHub Analytics
-
-<table>
-    <tr>
-        <td>
-            <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KseniaLF&theme=dark" alt="webDev's Github stats" />
-        </td>
-        <td>
-            <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark" />
-        </td>
-    </tr>
-</table>
-
-##
-
   <div style="display: inline_block">
     <p align="center">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -105,9 +84,12 @@
       <img align="center" alt="Logo do CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </p>
   </div>
-</a> 
+
 <br>
-<br>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="30%"/>
+</div>
 
 ### 💻 Tech Stack:
 
@@ -133,3 +115,20 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luv_ksuy)
 
 ##
+
+### ⚙️ GitHub Analytics
+
+<table>
+    <tr>
+        <td>
+            <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KseniaLF&theme=dark" alt="webDev's Github stats" />
+        </td>
+        <td>
+            <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark" />
+        </td>
+    </tr>
+</table>
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
