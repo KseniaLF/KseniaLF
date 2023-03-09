@@ -54,3 +54,5 @@
     </td>
   </tr>
 </table>
+
+![Snake animation](https://github.com/KseniaLF/KseniaLF/blob/output/github-contribution-grid-snake.svg)
