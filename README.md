@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-Header
-
-about me
-
 ## I'm a junior front-end developer (React)
 
-<!-- ### languages and tools -->
+- 🔭 I’m open to work
+- 🌱 And I am currently studying REACT
+- 😄 I'm motivated to become a better programmer
+- 📫 How to reach me: llf9391@gmail.com
+
+##
 
 ### Knows about:
 
@@ -16,19 +17,22 @@ about me
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+##
+
 ### Mostly uses:
 
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+##
 
 ### Follow me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksenia-luv/)
 
-<!-- //// -->
+## Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniaLF&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
