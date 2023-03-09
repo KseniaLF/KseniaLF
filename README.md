@@ -61,6 +61,14 @@
 
 ##
 
+### Github Status 
+
+<p align="center">
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KseniaLF&theme=github_dark" />
+</p>
+
+##
+
 ### ⚙️ GitHub Analytics
 
 <table>
