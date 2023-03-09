@@ -2,9 +2,8 @@
 
 ## I'm a junior front-end developer (React)
 
-<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="25%"/> -->
 <div align="center">
-    <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
+  <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="25%"/>
 </div>
 
 - 💻 <b>Open to work</b> 💚
@@ -13,6 +12,10 @@
 - ⌨ Very love my touch typing skills 🖤
 - ⚡ In my free time I learn English
 - 📫 How to reach me: llf9391@gmail.com
+
+  <div align="center">
+      <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
+  </div>
 
 ##
 
@@ -31,7 +34,6 @@
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ##
 
