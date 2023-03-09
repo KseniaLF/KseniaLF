@@ -61,23 +61,20 @@
 
 ##
 
-### Github Status 
+### ⚙️ Github Status 
 
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KseniaLF&theme=github_dark" />
 </p>
 
-##
-
-### ⚙️ GitHub Analytics
 
 <table>
     <tr>
         <td>
-            <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KseniaLF&theme=dark" alt="webDev's Github stats" />
+            <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KseniaLF&theme=github_dark" alt="webDev's Github stats" />
         </td>
         <td>
-            <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark" />
+            <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=github_dark" />
         </td>
     </tr>
 </table>
