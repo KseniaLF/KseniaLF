@@ -12,6 +12,7 @@
 
 - 💻 <b>Open to work</b> 💚
 - 🌱 I am currently studying <b>react</b>
+- ... and graduate with a degree in software development 
 - 😄 I'm motivated to become <b>a better programmer</b>
 - ⌨ Very love my touch typing skills 🖤
 - ⚡ In my free time I learn English
@@ -32,9 +33,9 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="30%"/>
-</div>
+</div> -->
 
 ### 💻 Tech Stack and 🛠 tools:
 
