@@ -14,9 +14,8 @@
 - 🌱 I am currently studying <b>react</b>
 - ... and graduate with a degree in software development 
 - 😄 I'm motivated to become <b>a better programmer</b>
-- ⌨ Very love my touch typing skills 🖤
 - ⚡ In my free time I learn English
-- 👩‍💻 Interesting fact: <b>I'm really excited about REACT ❤</b>
+- 👩‍💻 Interesting fact: <b>I'm really passionate about REACT  ❤</b>
 - 📫 How to reach me: llf9391@gmail.com
 
 ##
