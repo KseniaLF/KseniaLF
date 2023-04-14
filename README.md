@@ -55,7 +55,7 @@
 
 ##
 
-### ⚙️ Github Status
+<!-- ### ⚙️ Github Status
 
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KseniaLF&theme=github_dark" />
@@ -72,6 +72,6 @@
     </tr>
 </table>
 
-##
+## -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
