@@ -2,7 +2,7 @@
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=100&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ksenia;I'm+a+future+Full+Stack+Developer;Welcome+to+My+GitHub+Profile!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ksenia;I'm+a+junior+Front-End+Developer;Welcome+to+My+GitHub+Profile!+ツ)
 
 <div align="center">
   <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/>
