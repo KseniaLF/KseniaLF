@@ -11,10 +11,10 @@
 ## I'm a junior front-end developer (React)
 
 - 💻 <b>Open to work</b> 💚
-- 🌱 I am currently studying <b>react</b>
-- 😋 I'm motivated to become <b>a better developer</b>
+- 🌱 I am currently developing a streaming platform
+<!-- - 😋 I'm motivated to become <b>a better developer</b> -->
 - ⚡ In my free time I learn English
-- 👩‍💻 Interesting fact: <b>I'm really passionate about REACT ❤</b>
+- 👩‍💻 Interesting fact: <b>I'm passionate about REACT ❤</b>
 - 📫 How to reach me: llf9391@gmail.com
 
 ## 🔧 Technologies
