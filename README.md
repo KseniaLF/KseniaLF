@@ -19,7 +19,7 @@
 
 ## 🔧 Main Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,github,git,vscode,bash,styledcomponents,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,github,git,vscode,bash,styledcomponents,materialui)](https://skillicons.dev)
 
 <!-- ## Have experience with:
 
