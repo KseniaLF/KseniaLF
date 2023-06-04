@@ -19,7 +19,7 @@
 
 ## 🔧 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,github,git,gitlab,bash,vscode,styledcomponents,emotion,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,github,git,gitlab,bash,vscode,postman,mongodb,styledcomponents,emotion,materialui)](https://skillicons.dev)
 
 <!-- ## Have experience with:
 
