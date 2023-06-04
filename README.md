@@ -17,7 +17,7 @@
 - 📫 How to reach me: llf9391@gmail.com
 <!-- - 😋 I'm motivated to become <b>a better developer</b> -->
 
-## 🔧 Technologies
+## 🔧 Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,mongodb,github,gitlab,git,bash,vscode,postman,styledcomponents,emotion,materialui)](https://skillicons.dev)
 
