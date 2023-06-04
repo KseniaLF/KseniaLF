@@ -11,7 +11,7 @@
 ## I'm a junior front-end developer (React)
 
 - 💻 <b>Open to work</b> 💚
-- 🌱 I am currently developing an EDU Streams
+- 🌱 I am currently studying Node
 - ⚡ In my free time I learn English
 - 👩‍💻 Interesting fact: <b>I'm passionate about REACT ❤</b>
 - 📫 How to reach me: llf9391@gmail.com
