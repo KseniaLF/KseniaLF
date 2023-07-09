@@ -8,7 +8,7 @@
   <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/>
 </div>
 
-## I'm a junior front-end developer (React)
+## I'm a junior front-end developer
 
 - 💻 <b>Open to work</b> 💚
 - 🌱 I am currently studying Node
