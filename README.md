@@ -11,11 +11,11 @@
 ## I'm a junior full-stack developer (JS)
 
 - 💻 <b>Open to work</b> 💚
-- 🌱 I am currently studying Node
+- 🌱 I am currently studying Next.js
 - ⚡ In my free time I learn English
-- 👩‍💻 Interesting fact: My heart brims with genuine passion and unwavering dedication when I immerse myself in the work I love ❤
 - 📫 How to reach me: llf9391@gmail.com
-<!-- - 😋 I'm motivated to become <b>a better developer</b> -->
+<!-- - 😋 I'm motivated to become <b>a better developer</b> 
+- 👩‍💻 Interesting fact: My heart brims with genuine passion and unwavering dedication when I immerse myself in the work I love ❤-->
 
 ## 🔧 Stack
 
