@@ -8,7 +8,6 @@
    <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/>
 </div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-DYNAMIC_TIME-brightgreen)
 
 ## I'm a junior full-stack developer (JS)
 
