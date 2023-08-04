@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ksenia;I'm+a+junior+Full-Stack+Developer;Welcome+to+My+GitHub+Profile!+ツ)
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width ="60%" height="100px"/>
+  <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width ="60%" style="height: 100px; object-fit: cover;"/>
   
 
 <!--   <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/> -->
