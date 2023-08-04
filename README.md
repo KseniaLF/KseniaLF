@@ -5,7 +5,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ksenia;I'm+a+junior+Full-Stack+Developer;Welcome+to+My+GitHub+Profile!+ツ)
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/>
+  <img src="https://i.pinimg.com/originals/83/66/3c/83663cad1a6fc192eeec3c4e024cee0d.gif" width ="60%"/>
+  
+
+<!--   <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/> -->
 </div>
 
 ## I'm a junior full-stack developer (JS)
