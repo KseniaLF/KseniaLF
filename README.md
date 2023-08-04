@@ -12,10 +12,9 @@
 
 - 💻 <b>Open to work</b> 💚
 - 🌱 I am currently studying Next.js
-- ⚡ In my free time I learn English
+- ⚡ In my free time I like to read books 📚
 - 📫 How to reach me: llf9391@gmail.com
-<!-- - 😋 I'm motivated to become <b>a better developer</b> 
-- 👩‍💻 Interesting fact: My heart brims with genuine passion and unwavering dedication when I immerse myself in the work I love ❤-->
+<!-- - 👩‍💻 Interesting fact: My heart brims with genuine passion and unwavering dedication when I immerse myself in the work I love ❤-->
 
 ## 🔧 Stack
 
