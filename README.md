@@ -11,6 +11,10 @@
 <!--   <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/> -->
 </div>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" alt="GIF" style="width: 60%; height: 100px; object-fit: cover;">
+</div>
+
 ## I'm a junior full-stack developer (JS)
 
 - 💻 <b>Open to work</b> 💚
