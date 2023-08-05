@@ -8,7 +8,6 @@
    <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/>
 </div>
 
-
 ## I'm a junior full-stack developer (JS)
 
 - 💻 <b>Open to work</b> 💚
@@ -56,3 +55,5 @@
 ## -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+
+![](https://github.com/KseniaLF/KseniaLF/blob/main/news.gif)
