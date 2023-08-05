@@ -56,6 +56,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 
-![](https://github.com/KseniaLF/KseniaLF/blob/main/news.gif)
+![news](https://github.com/KseniaLF/KseniaLF/assets/85734272/a609401f-a1f9-430d-b2f1-6eb1569ccafb)
 
 
