@@ -11,7 +11,7 @@
 ## I'm a junior full-stack developer (JS)
 
 - 💻 <b>Open to work</b> 💚
-- 🌱 I am currently studying Next.js + TS
+- 🌱 I am currently studying Next.js + TS in [this project](https://github.com/KseniaLF/yummy)
 - ⚡ In my free time I like to read books 📚
 - 📫 How to reach me: llf9391@gmail.com
 <!-- - 👩‍💻 Interesting fact: My heart brims with genuine passion and unwavering dedication when I immerse myself in the work I love ❤-->
