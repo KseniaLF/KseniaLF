@@ -18,7 +18,9 @@
 
 ## 🔧 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,mongodb,github,gitlab,git,bash,powershell,vscode,postman,vercel,styledcomponents,emotion,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,mongodb,styledcomponents,emotion,tailwind,materialui)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=github,gitlab,git,bash,powershell,vscode,postman,vercel)](https://skillicons.dev)
 
 <!-- ## Have experience with:
 
@@ -30,10 +32,10 @@
 
 ### 🖌 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksenia-luv/)
+<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksenia-luv/)-->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luv_ksuy)
 
-##
+
 
 <!-- ### ⚙️ Github Status
 
@@ -54,7 +56,7 @@
 
 ## -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>-->
 
 
 
