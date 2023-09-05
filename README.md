@@ -3,7 +3,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=100&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ksenia;I'm+a+junior+Full-Stack+Developer;Let's+create+something+interesting+together!+ツ)
-<!--Welcome+to+My+GitHub+Profile-->
+
 <div align="center">
    <img src="https://media2.giphy.com/media/sLlA3D82b344w/giphy.gif" width ="30%"/>
 </div>
@@ -11,7 +11,7 @@
 ## Junior full-stack developer (JS)
 
 - 💻 <b>Open to work</b> 💚
-- 🌱 I am currently studying Next.js + TS in [this project](https://github.com/KseniaLF/yummy)
+- 🌱 I'm currently delving into backend development.
 - ⚡ In my free time I like to read books 📚
 - 📫 How to reach me: llf9391@gmail.com
 <!-- - 👩‍💻 Interesting fact: My heart brims with genuine passion and unwavering dedication when I immerse myself in the work I love ❤-->
