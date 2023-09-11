@@ -18,7 +18,7 @@
 
 ## 🔧 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,mongodb,styledcomponents,emotion,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,angular,mongodb,styledcomponents,emotion,tailwind,materialui)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=github,gitlab,git,bash,powershell,vscode,postman,vercel)](https://skillicons.dev)
 
