@@ -19,11 +19,11 @@
 
 ## 🔧 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,nestjs,redis,mongodb,styledcomponents,emotion,tailwind,materialui,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,nestjs,redis,mongodb,styledcomponents,emotion,tailwind,materialui,angular,github,gitlab,git,bash,powershell,vscode,postman,vercel)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=github,gitlab,git,bash,powershell,vscode,postman,vercel)](https://skillicons.dev)
+<!-- [![Tools](https://skillicons.dev/icons?i=github,gitlab,git,bash,powershell,vscode,postman,vercel)](https://skillicons.dev)
 
-<!-- ## Have experience with:
+ ## Have experience with:
 
 [![My Skills](https://skillicons.dev/icons?i=gitlab,docker,figma,sass,emotion)](https://skillicons.dev) -->
 
