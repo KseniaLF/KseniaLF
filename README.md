@@ -1,5 +1,6 @@
-<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
-
+<p align="left">
+  <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" width="80" alt="cat">
+</p>
 <!--  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=100&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ksenia;I'm+a+junior+Full-Stack+Developer;Let's+create+something+interesting+together!+ツ) 
